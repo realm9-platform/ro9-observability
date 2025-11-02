@@ -1,0 +1,12 @@
+# Shell scripts used for documentation generation
+*.sh
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+temp_*
